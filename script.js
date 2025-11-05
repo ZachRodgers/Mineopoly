@@ -286,7 +286,7 @@
           b.innerHTML = copyBtn.innerHTML; // copy the svg and span from the first button
           // update the original span to the new one
           var span = b.querySelector('span');
-          if (span) span.textContent = 'Copy Command' + (chunkIndex+1);
+          if (span) span.textContent = 'Copy Command ' + (chunkIndex+1);
           // insert after the last copy-related button
           toolbar.appendChild(b);
           dynamicCopyButtons.push(b);
