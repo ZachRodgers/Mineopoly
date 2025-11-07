@@ -2,7 +2,7 @@
   "properties": [
     {
       "name": "snail stump",
-      "titleColor": "#955436",
+      "titleColor": "#83533A",
       "vals": {
         "price": "60",
         "rent": "2",
@@ -17,8 +17,8 @@
       }
     },
     {
-      "name": "piglin patch",
-      "titleColor": "#955436",
+      "name": "pig patch",
+      "titleColor": "#83533A",
       "vals": {
         "price": "60",
         "rent": "4",
@@ -113,7 +113,7 @@
       }
     },
     {
-      "name": "squire grove",
+      "name": "squirrel grove",
       "titleColor": "#D93A96",
       "vals": {
         "price": "160",
@@ -178,7 +178,7 @@
     },
     {
       "name": "piglin parade",
-      "titleColor": "#ED1B24",
+      "titleColor": "#F05C5C",
       "vals": {
         "price": "220",
         "rent": "18",
@@ -194,7 +194,7 @@
     },
     {
       "name": "hoglin hell",
-      "titleColor": "#ED1B24",
+      "titleColor": "#F05C5C",
       "vals": {
         "price": "220",
         "rent": "18",
@@ -209,8 +209,8 @@
       }
     },
     {
-      "name": "withering warts",
-      "titleColor": "#ED1B24",
+      "name": "blaze barrage",
+      "titleColor": "#F05C5C",
       "vals": {
         "price": "240",
         "rent": "20",
